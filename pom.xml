@@ -10,9 +10,9 @@
 	</parent>
 	
 	<groupId>com.interview</groupId>
-	<artifactId>FoodTruckDemo</artifactId>
+	<artifactId>FoodTruck</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>FoodTruckDemo</name>
+	<name>FoodTruck</name>
 	<description>food-truck-demo</description>
 	
 	<properties>
